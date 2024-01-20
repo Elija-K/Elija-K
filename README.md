@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elija-K
 - 👀 I’m interested in Computer and Technic
 - 🌱 I’m currently learning Ai Technology
-- 📫 How to reach me: elija.kaeser@hotmail.com
+- 📫 How to reach me: elija.kaeser@proton.me
 
 <!---
 Elija-K/Elija-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
